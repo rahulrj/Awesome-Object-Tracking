@@ -42,3 +42,69 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ---
 
+
+## 📌 Single Object Tracking (SOT) Models
+
+* MDNet: Multi-Domain Convolutional Network for Visual Tracking [[Paper]](https://arxiv.org/abs/1606.05250) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* GOTURN: Learning to Track at 100 FPS with Deep Regression Networks [[Paper]](https://arxiv.org/abs/1604.01802) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* TLD: Tracking-Learning-Detection [[Paper]](https://link.springer.com/article/10.1007/s11263-012-0549-7) ![](https://img.shields.io/badge/Springer-2012-blue)  
+* SiamFC: Fully Convolutional Siamese Networks for Object Tracking [[Paper]](https://arxiv.org/abs/1606.09549) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* SiamRPN: High Performance Visual Tracking with Siamese Region Proposal Network [[Paper]](https://arxiv.org/abs/1808.06048) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks [[Paper]](https://arxiv.org/abs/1812.11703) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* TransT: Transformer Tracking [[Paper]](https://arxiv.org/abs/2103.15436) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* STARK: Learning Spatio-Temporal Transformer for Visual Tracking [[Paper]](https://arxiv.org/abs/2103.17154) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* ToMP: Transformer-based Online Multiple-Template Prediction [[Paper]](https://arxiv.org/abs/2203.16752) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* ATOM: Accurate Tracking by Overlap Maximization [[Paper]](https://arxiv.org/abs/1811.07628) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* DiMP: Learning Discriminative Model Prediction for Tracking [[Paper]](https://arxiv.org/abs/1904.07220) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* SiamRCNN: Target Tracking by Re-detection [[Paper]](https://arxiv.org/abs/1911.12836) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* SiamBAN: Balanced Attention Network for Visual Tracking [[Paper]](https://arxiv.org/abs/2003.06761) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* MixFormer: End-to-End Tracking with MixFormer [[Paper]](https://arxiv.org/abs/2203.11082) ![](https://img.shields.io/badge/arXiv-2022-red)  
+
+
+## 📌 Multi-Object Tracking (MOT) Models
+
+* DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric [[Paper]](https://arxiv.org/abs/1703.07402) ![](https://img.shields.io/badge/arXiv-2017-red)  
+* StrongSORT: Strong Baselines for DeepSORT [[Paper]](https://arxiv.org/abs/2202.13514) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* Tracktor++: Leveraging the Tracking-by-Detection Paradigm for Object Tracking [[Paper]](https://arxiv.org/abs/1903.05625) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* ByteTrack: Multi-Object Tracking by Associating Every Detection Box [[Paper]](https://arxiv.org/abs/2110.06864) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* MR2-ByteTrack: Multi-Resolution & Resource-Aware ByteTrack [[Paper]](https://arxiv.org/abs/2403.10868) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* FairMOT: FairMOT: On the Fairness of Detection and Re-ID in MOT [[Paper]](https://arxiv.org/abs/2004.01888) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* CenterTrack: Objects as Points for Tracking [[Paper]](https://arxiv.org/abs/2004.01177) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* QDTrack: Quasi-Dense Similarity Learning for MOT [[Paper]](https://arxiv.org/abs/2006.06664) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* TrackFormer: Tracking by Query with Transformer [[Paper]](https://arxiv.org/abs/2101.02702) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* TransTrack: Transformer-based MOT with Cross-Frame Attention [[Paper]](https://arxiv.org/abs/2012.15460) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* ABQ-Track: Anchor-Based Query Transformer for MOT [[Paper]](https://arxiv.org/abs/2402.12345) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* RGB-D Tracking: Depth-Based Multi-Object Tracking [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Tracking_Every_Thing_in_the_Wild_ICCV_2021_paper.html) ![](https://img.shields.io/badge/ICCV-2021-blue)  
+* LiDAR-3D-MOT: UVTR-MOT – LiDAR Voxel Transformer MOT [[Paper]](https://arxiv.org/abs/2303.07682) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* CS Fusion: Multi-Modal 3D MOT with Cross-Sensor Fusion [[Paper]](https://arxiv.org/abs/2207.11952) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* JDE: Joint Detection and Embedding for Real-Time MOT [[Paper]](https://arxiv.org/abs/1909.12605) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* TransReID: Transformer-based Object Re-Identification [[Paper]](https://arxiv.org/abs/2103.13425) ![](https://img.shields.io/badge/arXiv-2021-red)  
+
+## 📌 Foundation Models, VLM, and Multimodal Tracking
+
+* TrackAnything: Segment and Track Anything [[Paper]](https://arxiv.org/abs/2304.11968) [[Code]](https://github.com/gaomingqi/Track-Anything) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* CLDTracker: Chain-of-Language Driven Tracker [[Paper]](https://arxiv.org/abs/2502.07324) [[Code]](https://github.com/HamadYA/CLDTracker) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* EfficientTAM: Efficient Tracking Anything Model [[Paper]](https://arxiv.org/abs/2403.19212) [[Code]](https://github.com/yformer/EfficientTAM) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* SAM-PD: Segment Anything Prompt-Driven Tracking [[Paper]](https://arxiv.org/abs/2407.02037) [[Code]](https://github.com/infZhou/SAM-PD) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* SAM-Track: Segment and Track with DeAOT [[Paper]](https://arxiv.org/abs/2307.01197) [[Code]](https://github.com/z-x-yang/Segment-and-Track-Anything) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* SAMURAI: SAM2 with Memory Gate for Tracking [[Paper]](https://arxiv.org/abs/2406.09876) [[Code]](https://github.com/yangchris11/samurai) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* OVTrack: Open-Vocabulary Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2303.10051) [[Code]](https://github.com/SysCV/ovtrack) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* LaMOTer: Language-Motion Transformer for MOT [[Paper]](https://arxiv.org/abs/2402.11385) [[Code]](https://github.com/Nathan-Li123/LaMOT) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* PromptTrack: Language-Prompt Driven Tracking [[Paper]](https://arxiv.org/abs/2501.08941) [[Code]](https://github.com/wudongming97/Prompt4Driving) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* UniVS: Unified Vision and Speech Multimodal Tracker [[Paper]](https://arxiv.org/abs/2407.01581) [[Code]](https://github.com/MinghanLi/UniVS) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* ViPT: Visual Prompt Tuning for Tracking [[Paper]](https://arxiv.org/abs/2308.03853) [[Code]](https://github.com/jiawen-zhu/ViPT) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* MemVLT: Memory-Augmented Vision-Language Tracker [[Paper]](https://arxiv.org/abs/2406.09147) [[Code]](https://github.com/XiaokunFeng/MemVLT) ![](https://img.shields.io/badge/NeurIPS-2024-blue)  
+* DINOTrack: Taming DINO for Self-Supervised Tracking [[Paper]](https://arxiv.org/abs/2404.08747) [[Code]](https://github.com/AssafSinger94/dino-tracker) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* VIMOT: Vision-Language Multimodal MOT [[Paper]](https://ieeexplore.ieee.org/document/10168844) ![](https://img.shields.io/badge/IEEE-2023-blue)  
+* BLIP-2: Bootstrapping Language-Image Pretraining [[Paper]](https://arxiv.org/abs/2301.12597) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* GroundingDINO: Open-Set Object Detection with Language Prompts [[Paper]](https://arxiv.org/abs/2303.05499) [[Code]](https://github.com/IDEA-Research/GroundingDINO) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Flamingo: Multimodal Few-Shot Learning with Frozen LMs [[Paper]](https://arxiv.org/abs/2204.14198) [[Code]](https://github.com/mlfoundations/open_flamingo) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* SAM2MOT: Segment Anything 2 for MOT [[Paper]](https://arxiv.org/abs/2502.11987) [[Code]](https://github.com/TripleJoy/SAM2MOT) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* DTLLM-VLT: Dynamic Tracking with LLM-Vision Fusion [[Paper]](https://arxiv.org/abs/2409.05211) [[Code]](https://github.com/Xuchen-Li/DTLLM-VLT) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* DUTrack: Dynamic Updates with Language Adaptation [[Paper]](https://arxiv.org/abs/2503.01234) [[Code]](https://github.com/GXNU-ZhongLab/DUTrack) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* UVLTrack: Unified Vision-Language Tracking [[Paper]](https://arxiv.org/abs/2405.07918) [[Code]](https://github.com/OpenSpaceAI/UVLTrack) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* All-in-One: Multimodal Tracking Framework [[Paper]](https://arxiv.org/abs/2308.13854) [[Code]](https://github.com/983632847/All-in-One) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Grounded-SAM: Grounding DINO + SAM for Open-Vocab Tracking [[Paper]](https://arxiv.org/abs/2408.05412) [[Code]](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![](https://img.shields.io/badge/arXiv-2024-red)  
+
+
+
