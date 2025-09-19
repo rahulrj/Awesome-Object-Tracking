@@ -33,3 +33,12 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 Taxonomy of object tracking paradigms, spanning historical foundations, single-object tracking (SOT), multi-object tracking (MOT), long-term tracking (LTT), and emerging trends leveraging foundation and vision-language models. Each branch highlights representative methods and architectures across the evolution of tracking research.
 
 ---
+<p align="center">
+  <img src="./images/timeline.png" width="100%" hieght="100%" />
+<!--   <img src="./Images/timeline.png" width="45%" height="50%" /> -->
+</p>
+Timeline of object tracking research from classical foundations and deep learning, through hybrid and transformer-based
+trackers, to recent long-term, multi-modal, and foundation/VLM-powered approaches.
+
+---
+
