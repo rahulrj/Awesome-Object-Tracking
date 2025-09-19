@@ -16,7 +16,7 @@ This repository is a curated collection of the most influential **papers**, **co
 Our work is based on the following paper:  
 📄 **Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)
 
-#### [Rahul Raja](https://www.linkedin.com/in/rahulraja963/)* ,[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/)*, , [Omkar Thawakar](https://omkarthawakar.github.io/index.html) , [Tajamul Ashraf](https://www.tajamulashraf.com) 
+#### [Rahul Raja](https://www.linkedin.com/in/rahulraja963/)* ,[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/)*, [Omkar Thawakar](https://omkarthawakar.github.io/index.html) , [Tajamul Ashraf](https://www.tajamulashraf.com) 
 \* Equally contributing first authors
 
  
