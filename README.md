@@ -30,6 +30,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   <img src="./images/taxonomy-ot.jpg" width="100%" hieght="100%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
-A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tuning, Reinforcement Learning, and Test-time Scaling methods. We summarize the key techniques used in recent LLM models.
+Taxonomy of object tracking paradigms, spanning historical foundations, single-object tracking (SOT), multi-object tracking (MOT), long-term tracking (LTT), and emerging trends leveraging foundation and vision-language models. Each branch highlights representative methods and architectures across the evolution of tracking research.
 
 ---
