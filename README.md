@@ -107,4 +107,52 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * Grounded-SAM: Grounding DINO + SAM for Open-Vocab Tracking [[Paper]](https://arxiv.org/abs/2408.05412) [[Code]](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![](https://img.shields.io/badge/arXiv-2024-red)  
 
 
+## 📊 Object Tracking Benchmarks
+
+### 🔹 Single Object Tracking (SOT)
+
+* OTB-2013: Online Object Tracking Benchmark [[Paper]](https://link.springer.com/article/10.1007/s11263-013-0623-4) ![](https://img.shields.io/badge/Springer-2013-blue)  
+* VOT: Visual Object Tracking Challenge [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320316302035) ![](https://img.shields.io/badge/Elsevier-2016-blue)  
+* LaSOT: Large-scale Single Object Tracking [[Paper]](https://arxiv.org/abs/1809.07845) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* TrackingNet: Large-scale Object Tracking Dataset [[Paper]](https://arxiv.org/abs/1803.10794) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* GOT-10k: Generic Object Tracking Benchmark [[Paper]](https://arxiv.org/abs/1810.11981) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* UAV123: UAV Aerial Tracking Benchmark [[Paper]](https://arxiv.org/abs/1602.05374) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* FELT: Long-term Multi-camera Tracking [[Paper]](https://arxiv.org/abs/2403.03241) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* NT-VOT211: Night-time Visual Object Tracking [[Paper]](https://arxiv.org/abs/2403.05487) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* OOTB: Out-of-Orbit Tracking Benchmark [[Paper]](https://arxiv.org/abs/2407.01304) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* GSOT3D: Generalized 3D Object Tracking [[Paper]](https://arxiv.org/abs/2407.07621) ![](https://img.shields.io/badge/arXiv-2024-red)  
+
+---
+
+### 🔹 Multi-Object Tracking (MOT)
+
+* MOT15: MOTChallenge 2015 [[Paper]](https://arxiv.org/abs/1504.01942) ![](https://img.shields.io/badge/arXiv-2015-red)  
+* MOT17: MOTChallenge 2017 [[Paper]](https://arxiv.org/abs/1603.00831) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* MOT20: MOTChallenge 2020 [[Paper]](https://arxiv.org/abs/1906.04567) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* KITTI Tracking Benchmark [[Paper]](https://www.cvlibs.net/datasets/kitti/) ![](https://img.shields.io/badge/CVPR-2012-blue)  
+* BDD100K: Diverse Driving Dataset [[Paper]](https://arxiv.org/abs/1805.04687) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* TAO: Tracking Any Object [[Paper]](https://arxiv.org/abs/2005.10356) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* DanceTrack: A New Benchmark for Multi-Human Tracking [[Paper]](https://arxiv.org/abs/2111.14690) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* EgoTracks: Egocentric MOT [[Paper]](https://arxiv.org/abs/2306.07257) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* OVTrack: Open-Vocabulary MOT [[Paper]](https://arxiv.org/abs/2303.10051) ![](https://img.shields.io/badge/arXiv-2023-red)  
+
+---
+
+### 🔹 Long-Term Tracking (LTT)
+
+* OxUvA: Oxford Long-Term Tracking Benchmark [[Paper]](https://arxiv.org/abs/1803.09502) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* UAV20L: Long-Term UAV Tracking [[Paper]](https://arxiv.org/abs/1602.05374) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* LaSOT-Ext: Extended LaSOT Dataset [[Paper]](https://arxiv.org/abs/2104.14046) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* TREK-150: AR/VR Long-Term Tracking Benchmark [[Paper]](https://arxiv.org/abs/2305.13712) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* EgoTrack++: Egocentric AR + Memory Tracking [[Paper]](https://arxiv.org/abs/2406.11297) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* OpenTrack-LT: Open-Vocab Long-Term Tracking [[Paper]](https://arxiv.org/abs/2503.06144) ![](https://img.shields.io/badge/arXiv-2025-red)  
+
+---
+
+### 🔹 Vision-Language & Multimodal Benchmarks (VLM)
+
+* BURST: Bursty Event Grounding Benchmark [[Paper]](https://arxiv.org/abs/2307.04788) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* LVBench: Large-Scale Vision-Language Benchmark [[Paper]](https://arxiv.org/abs/2406.01340) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* OmniTrack: Unified Multimodal Tracking Benchmark [[Paper]](https://arxiv.org/abs/2406.09744) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* TNL2K-VLM: Tracking by Natural Language Queries [[Paper]](https://arxiv.org/abs/2103.16792) ![](https://img.shields.io/badge/arXiv-2021-red)  
 
