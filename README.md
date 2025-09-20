@@ -45,7 +45,7 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ## 📌 Single Object Tracking (SOT) Models
 
-* MDNet: Multi-Domain Convolutional Network for Visual Tracking [[Paper]](https://arxiv.org/abs/1606.05250) ![](https://img.shields.io/badge/arXiv-2016-red)  
+* MDNet: Multi-Domain Convolutional Network for Visual Tracking [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/Springer-2012-blue)  
 * GOTURN: Learning to Track at 100 FPS with Deep Regression Networks [[Paper]](https://arxiv.org/abs/1604.01802) ![](https://img.shields.io/badge/arXiv-2016-red)  
 * TLD: Tracking-Learning-Detection [[Paper]](https://link.springer.com/article/10.1007/s11263-012-0549-7) ![](https://img.shields.io/badge/Springer-2012-blue)  
 * SiamFC: Fully Convolutional Siamese Networks for Object Tracking [[Paper]](https://arxiv.org/abs/1606.09549) ![](https://img.shields.io/badge/arXiv-2016-red)  
