@@ -68,11 +68,11 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * StrongSORT: Strong Baselines for DeepSORT [[Paper]](https://arxiv.org/abs/2202.13514) ![](https://img.shields.io/badge/arXiv-2022-red)  
 * Tracktor++: Leveraging the Tracking-by-Detection Paradigm for Object Tracking [[Paper]](https://arxiv.org/abs/1903.05625) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * ByteTrack: Multi-Object Tracking by Associating Every Detection Box [[Paper]](https://arxiv.org/abs/2110.06864) ![](https://img.shields.io/badge/arXiv-2021-red)  
-* MR2-ByteTrack: Multi-Resolution & Resource-Aware ByteTrack [[Paper]](https://arxiv.org/abs/2403.10868) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* LG-Track: Local-Global Association Framework [[Paper]](https://arxiv.org/abs/2303.04227) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* Deep LG-Track: Deep Local-Global MOT with Enhanced Features [[Paper]](https://arxiv.org/abs/2502.07815) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* RTAT: Robust Two-Stage Association Tracker [[Paper]](https://arxiv.org/abs/2402.01874) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* Wu et al. – ACCV MOT Framework [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Wu_MOT_Framework_ACCV_2022_paper.html) ![](https://img.shields.io/badge/ACCV-2022-blue)  
+* MR2-ByteTrack: Multi-Resolution & Resource-Aware ByteTrack [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf) ![](https://img.shields.io/badge/cvpr-2022-blue)  
+* LG-Track: Local-Global Association Framework [[Paper]](https://arxiv.org/abs/2309.09765) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Deep LG-Track: Deep Local-Global MOT with Enhanced Features [[Paper]](https://arxiv.org/abs/2504.01457) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* RTAT: Robust Two-Stage Association Tracker [[Paper]](https://arxiv.org/abs/2408.07344) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* Wu et al. – ACCV MOT Framework [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Wu_Group_Guided_Data_Association_for_Multiple_Object_Tracking_ACCV_2022_paper.html) ![](https://img.shields.io/badge/ACCV-2022-blue)  
 
 ---
 
@@ -81,9 +81,9 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * FairMOT: FairMOT: On the Fairness of Detection and Re-ID in MOT [[Paper]](https://arxiv.org/abs/2004.01888) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * CenterTrack: Objects as Points for Tracking [[Paper]](https://arxiv.org/abs/2004.01177) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * QDTrack: Quasi-Dense Similarity Learning for MOT [[Paper]](https://arxiv.org/abs/2006.06664) ![](https://img.shields.io/badge/arXiv-2020-red) 
-* Speed-FairMOT: Lightweight FairMOT for Real-Time Applications [[Paper]](https://arxiv.org/abs/2501.05541) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* TBDQ-Net: Tracking by Detection-Query Efficient Network [[Paper]](https://arxiv.org/abs/2502.06122) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* JDTHM: Joint Detection-Tracking with Hierarchical Memory [[Paper]](https://arxiv.org/abs/2405.01234) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* Speed-FairMOT: Lightweight FairMOT for Real-Time Applications [[Paper]](https://link.springer.com/article/10.1007/s11760-025-04395-y) ![](https://img.shields.io/badge/springer-2025-blue)  
+* TBDQ-Net: Tracking by Detection-Query Efficient Network [[Paper]](https://arxiv.org/abs/2411.06197) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* JDTHM: Joint Detection-Tracking with Hierarchical Memory [[Paper]](https://www.mdpi.com/2076-3417/14/23/11098) ![]([https://img.shields.io/badge/mdpi-2024-blue](https://img.shields.io/badge/ACCV-2022-blue))  
 
 ---
 
