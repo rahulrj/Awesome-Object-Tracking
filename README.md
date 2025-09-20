@@ -126,29 +126,32 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ## 📌 Foundation Models, VLM, and Multimodal Tracking
 
-* TrackAnything: Segment and Track Anything [[Paper]](https://arxiv.org/abs/2304.11968) [[Code]](https://github.com/gaomingqi/Track-Anything) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* CLDTracker: Chain-of-Language Driven Tracker [[Paper]](https://arxiv.org/abs/2502.07324) [[Code]](https://github.com/HamadYA/CLDTracker) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* EfficientTAM: Efficient Tracking Anything Model [[Paper]](https://arxiv.org/abs/2403.19212) [[Code]](https://github.com/yformer/EfficientTAM) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* SAM-PD: Segment Anything Prompt-Driven Tracking [[Paper]](https://arxiv.org/abs/2407.02037) [[Code]](https://github.com/infZhou/SAM-PD) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* SAM-Track: Segment and Track with DeAOT [[Paper]](https://arxiv.org/abs/2307.01197) [[Code]](https://github.com/z-x-yang/Segment-and-Track-Anything) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* SAMURAI: SAM2 with Memory Gate for Tracking [[Paper]](https://arxiv.org/abs/2406.09876) [[Code]](https://github.com/yangchris11/samurai) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* OVTrack: Open-Vocabulary Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2303.10051) [[Code]](https://github.com/SysCV/ovtrack) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* LaMOTer: Language-Motion Transformer for MOT [[Paper]](https://arxiv.org/abs/2402.11385) [[Code]](https://github.com/Nathan-Li123/LaMOT) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* PromptTrack: Language-Prompt Driven Tracking [[Paper]](https://arxiv.org/abs/2501.08941) [[Code]](https://github.com/wudongming97/Prompt4Driving) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* UniVS: Unified Vision and Speech Multimodal Tracker [[Paper]](https://arxiv.org/abs/2407.01581) [[Code]](https://github.com/MinghanLi/UniVS) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* ViPT: Visual Prompt Tuning for Tracking [[Paper]](https://arxiv.org/abs/2308.03853) [[Code]](https://github.com/jiawen-zhu/ViPT) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* MemVLT: Memory-Augmented Vision-Language Tracker [[Paper]](https://arxiv.org/abs/2406.09147) [[Code]](https://github.com/XiaokunFeng/MemVLT) ![](https://img.shields.io/badge/NeurIPS-2024-blue)  
-* DINOTrack: Taming DINO for Self-Supervised Tracking [[Paper]](https://arxiv.org/abs/2404.08747) [[Code]](https://github.com/AssafSinger94/dino-tracker) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* VIMOT: Vision-Language Multimodal MOT [[Paper]](https://ieeexplore.ieee.org/document/10168844) ![](https://img.shields.io/badge/IEEE-2023-blue)  
-* BLIP-2: Bootstrapping Language-Image Pretraining [[Paper]](https://arxiv.org/abs/2301.12597) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* GroundingDINO: Open-Set Object Detection with Language Prompts [[Paper]](https://arxiv.org/abs/2303.05499) [[Code]](https://github.com/IDEA-Research/GroundingDINO) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* Flamingo: Multimodal Few-Shot Learning with Frozen LMs [[Paper]](https://arxiv.org/abs/2204.14198) [[Code]](https://github.com/mlfoundations/open_flamingo) ![](https://img.shields.io/badge/arXiv-2022-red)  
-* SAM2MOT: Segment Anything 2 for MOT [[Paper]](https://arxiv.org/abs/2502.11987) [[Code]](https://github.com/TripleJoy/SAM2MOT) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* DTLLM-VLT: Dynamic Tracking with LLM-Vision Fusion [[Paper]](https://arxiv.org/abs/2409.05211) [[Code]](https://github.com/Xuchen-Li/DTLLM-VLT) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* DUTrack: Dynamic Updates with Language Adaptation [[Paper]](https://arxiv.org/abs/2503.01234) [[Code]](https://github.com/GXNU-ZhongLab/DUTrack) ![](https://img.shields.io/badge/arXiv-2025-red)  
-* UVLTrack: Unified Vision-Language Tracking [[Paper]](https://arxiv.org/abs/2405.07918) [[Code]](https://github.com/OpenSpaceAI/UVLTrack) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* All-in-One: Multimodal Tracking Framework [[Paper]](https://arxiv.org/abs/2308.13854) [[Code]](https://github.com/983632847/All-in-One) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* Grounded-SAM: Grounding DINO + SAM for Open-Vocab Tracking [[Paper]](https://arxiv.org/abs/2408.05412) [[Code]](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![](https://img.shields.io/badge/arXiv-2024-red)  
+| **Model**       | **Description**                                        | **Paper** | **Code** |
+|-----------------|--------------------------------------------------------|-----------|----------|
+| TrackAnything   | Segment and track arbitrary objects in video using SAM-based vision transformers. Provides interactive video editing and annotation capabilities. | [Paper](https://arxiv.org/abs/2304.11968) | [Code](https://github.com/gaomingqi/Track-Anything) |
+| CLDTracker      | Chain-of-Language driven tracker that integrates reasoning chains into vision-language tracking. Enables flexible text-guided association for MOT. | [Paper](https://arxiv.org/abs/2502.07324) | [Code](https://github.com/HamadYA/CLDTracker) |
+| EfficientTAM    | Lightweight tracking-anything framework designed for efficiency. Maintains strong performance while reducing compute and memory footprint. | [Paper](https://arxiv.org/abs/2403.19212) | [Code](https://github.com/yformer/EfficientTAM) |
+| SAM-PD          | Prompt-driven tracking method built on SAM. Allows flexible prompts to initiate and update object trajectories across frames. | [Paper](https://arxiv.org/abs/2407.02037) | [Code](https://github.com/infZhou/SAM-PD) |
+| SAM-Track       | Combines SAM with DeAOT to segment and track anything in videos. Achieves robust long-term tracking and high-quality segmentation masks. | [Paper](https://arxiv.org/abs/2307.01197) | [Code](https://github.com/z-x-yang/Segment-and-Track-Anything) |
+| SAMURAI         | Builds on SAM2 with a memory-gating mechanism for improved temporal stability. Handles long occlusions and challenging re-identifications. | [Paper](https://arxiv.org/abs/2406.09876) | [Code](https://github.com/yangchris11/samurai) |
+| OVTrack         | Open-vocabulary multi-object tracker using CLIP and transformers. Supports free-form text prompts for category-agnostic tracking. | [Paper](https://arxiv.org/abs/2303.10051) | [Code](https://github.com/SysCV/ovtrack) |
+| LaMOTer         | Language-Motion Transformer for MOT that fuses linguistic cues with motion features. Improves robustness in ambiguous tracking cases. | [Paper](https://arxiv.org/abs/2402.11385) | [Code](https://github.com/Nathan-Li123/LaMOT) |
+| PromptTrack     | Prompt-driven tracker designed for autonomous driving. Leverages vision-language prompts to improve adaptability to unseen road objects. | [Paper](https://arxiv.org/abs/2501.08941) | [Code](https://github.com/wudongming97/Prompt4Driving) |
+| UniVS           | Unified vision and speech multimodal tracker. Processes both audio and video streams for enhanced disambiguation in challenging environments. | [Paper](https://arxiv.org/abs/2407.01581) | [Code](https://github.com/MinghanLi/UniVS) |
+| ViPT            | Visual prompt tuning framework for object tracking. Introduces learnable prompts for adapting foundation models to tracking tasks. | [Paper](https://arxiv.org/abs/2308.03853) | [Code](https://github.com/jiawen-zhu/ViPT) |
+| MemVLT          | Memory-augmented vision-language tracker. Encodes long-term context to maintain identity consistency across occlusions. | [Paper](https://arxiv.org/abs/2406.09147) | [Code](https://github.com/XiaokunFeng/MemVLT) |
+| DINOTrack       | Builds on DINOv2 for self-supervised tracking. Uses patch-level matching for robust representation without labeled data. | [Paper](https://arxiv.org/abs/2404.08747) | [Code](https://github.com/AssafSinger94/dino-tracker) |
+| VIMOT           | Vision-language multimodal tracker evaluated on driving datasets. Supports multi-class and open-world tracking scenarios. | [Paper](https://ieeexplore.ieee.org/document/10168844) | N/A |
+| BLIP-2          | Bootstrapped language-image pretraining model. Serves as a general-purpose vision-language backbone adaptable to tracking. | [Paper](https://arxiv.org/abs/2301.12597) | [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
+| GroundingDINO   | Open-set object detection with language prompts. Provides strong grounding for vision-language tracking pipelines. | [Paper](https://arxiv.org/abs/2303.05499) | [Code](https://github.com/IDEA-Research/GroundingDINO) |
+| Flamingo        | Large-scale multimodal few-shot learner with frozen LMs. Capable of integrating temporal reasoning across modalities. | [Paper](https://arxiv.org/abs/2204.14198) | [Code](https://github.com/mlfoundations/open_flamingo) |
+| SAM2MOT         | Extends SAM2 for segmentation-based multi-object tracking. Targets open-world and promptable tracking challenges. | [Paper](https://arxiv.org/abs/2502.11987) | [Code](https://github.com/TripleJoy/SAM2MOT) |
+| DTLLM-VLT       | Dynamic tracking with LLM-vision fusion. Incorporates large language models for reasoning over visual tracking states. | [Paper](https://arxiv.org/abs/2409.05211) | [Code](https://github.com/Xuchen-Li/DTLLM-VLT) |
+| DUTrack         | Dynamic update mechanism with language-driven adaptation. Enhances model robustness in evolving visual environments. | [Paper](https://arxiv.org/abs/2503.01234) | [Code](https://github.com/GXNU-ZhongLab/DUTrack) |
+| UVLTrack        | Unified vision-language tracking across multiple modalities. Provides flexible open-vocab evaluation with diverse prompts. | [Paper](https://arxiv.org/abs/2405.07918) | [Code](https://github.com/OpenSpaceAI/UVLTrack) |
+| All-in-One      | Multimodal tracking framework combining vision and language encoders. Offers a versatile baseline for fusion strategies. | [Paper](https://arxiv.org/abs/2308.13854) | [Code](https://github.com/983632847/All-in-One) |
+| Grounded-SAM    | Combines GroundingDINO and SAM for open-vocabulary tracking. Strengthens grounding accuracy for segmentation-driven MOT. | [Paper](https://arxiv.org/abs/2408.05412) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) |
+
 
 
 ## 📊 Object Tracking Benchmarks
