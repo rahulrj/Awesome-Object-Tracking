@@ -45,15 +45,15 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ## 📌 Single Object Tracking (SOT) Models
 
-* MDNet: Multi-Domain Convolutional Network for Visual Tracking [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/Springer-2012-blue)  
+* MDNet: Multi-Domain Convolutional Network for Visual Tracking [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/CVPR-2012-blue)  
 * GOTURN: Learning to Track at 100 FPS with Deep Regression Networks [[Paper]](https://arxiv.org/abs/1604.01802) ![](https://img.shields.io/badge/arXiv-2016-red)  
-* TLD: Tracking-Learning-Detection [[Paper]](https://link.springer.com/article/10.1007/s11263-012-0549-7) ![](https://img.shields.io/badge/Springer-2012-blue)  
+* TLD: Tracking-Learning-Detection [[Paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/Kalal-PAMI.pdf) ![](https://img.shields.io/badge/tpami-2010-blue)  
 * SiamFC: Fully Convolutional Siamese Networks for Object Tracking [[Paper]](https://arxiv.org/abs/1606.09549) ![](https://img.shields.io/badge/arXiv-2016-red)  
 * SiamRPN: High Performance Visual Tracking with Siamese Region Proposal Network [[Paper]](https://arxiv.org/abs/1808.06048) ![](https://img.shields.io/badge/arXiv-2018-red)  
 * SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks [[Paper]](https://arxiv.org/abs/1812.11703) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * TransT: Transformer Tracking [[Paper]](https://arxiv.org/abs/2103.15436) ![](https://img.shields.io/badge/arXiv-2021-red)  
 * STARK: Learning Spatio-Temporal Transformer for Visual Tracking [[Paper]](https://arxiv.org/abs/2103.17154) ![](https://img.shields.io/badge/arXiv-2021-red)  
-* ToMP: Transformer-based Online Multiple-Template Prediction [[Paper]](https://arxiv.org/abs/2203.16752) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* ToMP: Transformer-based Online Multiple-Template Prediction [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Mayer_Transforming_Model_Prediction_for_Tracking_CVPR_2022_paper.pdf) ![](https://img.shields.io/badge/cvpr-2022-blue)  
 * ATOM: Accurate Tracking by Overlap Maximization [[Paper]](https://arxiv.org/abs/1811.07628) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * DiMP: Learning Discriminative Model Prediction for Tracking [[Paper]](https://arxiv.org/abs/1904.07220) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * SiamRCNN: Target Tracking by Re-detection [[Paper]](https://arxiv.org/abs/1911.12836) ![](https://img.shields.io/badge/arXiv-2020-red)  
