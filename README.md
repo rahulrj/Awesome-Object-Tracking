@@ -91,21 +91,20 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 * TrackFormer: Tracking by Query with Transformer [[Paper]](https://arxiv.org/abs/2101.02702) ![](https://img.shields.io/badge/arXiv-2021-red)  
 * TransTrack: Transformer-based MOT with Cross-Frame Attention [[Paper]](https://arxiv.org/abs/2012.15460) ![](https://img.shields.io/badge/arXiv-2020-red)  
-* ABQ-Track: Anchor-Based Query Transformer for MOT [[Paper]](https://arxiv.org/abs/2402.12345) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* MeMOTR: Memory-Augmented Transformer for MOT [[Paper]](https://arxiv.org/abs/2306.04780) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* Co-MOT: Collaborative Transformer for Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2501.08122) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* ABQ-Track: Anchor-Based Query Transformer for MOT [[Paper]](https://www.mdpi.com/1424-8220/24/1/229) ![](https://img.shields.io/badge/mdpi-2024-blue)  
+* MeMOTR: Memory-Augmented Transformer for MOT [[Paper]](https://arxiv.org/abs/2307.15700) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Co-MOT: Collaborative Transformer for Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2305.12724) ![](https://img.shields.io/badge/arXiv-2025-red)  
 
 ---
 
 ### 🟦 Multi-Modal / 3D MOT
 
 * DS-KCF: Depth-based Scale-adaptive KCF [[Paper]](https://doi.org/10.1007/s11554-016-0654-3) ![](https://img.shields.io/badge/Springer-2016-blue)  
-* OTR: Object Tracking by Reconstruction [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Ugur_Kart_Object_Tracking_by_ECCV_2018_paper.html) ![](https://img.shields.io/badge/ECCV-2018-blue)  
-* DPANet: Depth-aware Panoptic Association Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_DPANet_ICCV_2021_paper.html) ![](https://img.shields.io/badge/ICCV-2021-blue)  
+* OTR: Object Tracking by Reconstruction [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.html) ![](https://img.shields.io/badge/ECCV-2018-blue)  
+* DPANet: Depth-aware Panoptic Association Network [[Paper]](https://arxiv.org/abs/2405.10947) ![](https://img.shields.io/badge/ICCV-2021-blue)  
 * AB3DMOT: Simple Baseline for 3D MOT [[Paper]](https://arxiv.org/abs/2008.08063) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * CenterPoint: Center-based 3D Object Tracking [[Paper]](https://arxiv.org/abs/2006.11275) ![](https://img.shields.io/badge/arXiv-2021-red)
-* RGB-D Tracking: Depth-Based Multi-Object Tracking [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Tracking_Every_Thing_in_the_Wild_ICCV_2021_paper.html) ![](https://img.shields.io/badge/ICCV-2021-blue)  
-* LiDAR-3D-MOT: UVTR-MOT – LiDAR Voxel Transformer MOT [[Paper]](https://arxiv.org/abs/2303.07682) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* RGB-D Tracking: Depth-Based Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2003.08608) ![](https://img.shields.io/badge/arXiv-2021-red)  
 * CS Fusion: Multi-Modal 3D MOT with Cross-Sensor Fusion [[Paper]](https://arxiv.org/abs/2207.11952) ![](https://img.shields.io/badge/arXiv-2022-red)    
 
 
