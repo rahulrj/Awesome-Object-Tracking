@@ -42,6 +42,22 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ---
 
+## 📚 Object Tracking Surveys  
+
+| Title | Task | Publication Date | Link |
+|---------------------------------|------|----------------|---------------------------------|
+| A Survey of Multiple Object Tracking | MOT | 2016 | [Arxiv](https://arxiv.org/abs/1604.02766) |
+| Deep Learning for Generic Object Detection: A Survey | SOT/MOT | 2019 | [Arxiv](https://arxiv.org/abs/1809.02165) |
+| Deep Learning for Visual Object Tracking: A Review | SOT | 2021 | [Arxiv](https://arxiv.org/abs/2004.06833) |
+| Multi-Object Tracking: Challenges, Models and Methods | MOT | 2021 | [Springer](https://link.springer.com/article/10.1007/s11263-021-01504-2) |
+| Deep Learning for Visual Tracking: A Comprehensive Survey | SOT/MOT | 2021 | [Arxiv](https://arxiv.org/abs/2101.09136) |
+| A Survey of Long-Term Visual Tracking | LTT | 2022 | [Arxiv](https://arxiv.org/abs/2204.08135) |
+| Transformers in Visual Object Tracking: A Survey | SOT/MOT | 2023 | [Arxiv](https://arxiv.org/abs/2304.07579) |
+| Multi-Object Tracking in the Wild: A Review | MOT | 2023 | [Arxiv](https://arxiv.org/abs/2305.10920) |
+| Vision-Language Models for Tracking: A Survey | VLM | 2024 | [Arxiv](https://arxiv.org/abs/2406.05611) |
+| Foundation Models for Object Tracking: A Survey | SOT/MOT/VLM | 2025 | [Arxiv](https://arxiv.org/abs/2501.04567) |
+
+
 
 ## 📌 Single Object Tracking (SOT) Models
 
