@@ -201,5 +201,6 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * BURST: Bursty Event Grounding Benchmark [[Paper]](https://arxiv.org/abs/2307.04788) ![](https://img.shields.io/badge/arXiv-2023-red)  
 * LVBench: Large-Scale Vision-Language Benchmark [[Paper]](https://arxiv.org/abs/2406.01340) ![](https://img.shields.io/badge/arXiv-2024-red)  
 * OmniTrack: Unified Multimodal Tracking Benchmark [[Paper]](https://arxiv.org/abs/2406.09744) ![](https://img.shields.io/badge/arXiv-2024-red)  
-* TNL2K-VLM: Tracking by Natural Language Queries [[Paper]](https://arxiv.org/abs/2103.16792) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* TNL2K-VLM: Tracking by Natural Language Queries [[Paper]](https://arxiv.org/abs/2103.16792) ![](https://img.shields.io/badge/arXiv-2021-red)
+
 
