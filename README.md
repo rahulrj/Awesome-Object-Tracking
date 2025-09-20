@@ -112,15 +112,15 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ### 🟦 ReID Aware Methods
 * JDE: Joint Detection and Embedding for Real-Time MOT [[Paper]](https://arxiv.org/abs/1909.12605) ![](https://img.shields.io/badge/arXiv-2019-red)  
-* TransReID: Transformer-based Object Re-Identification [[Paper]](https://arxiv.org/abs/2103.13425) ![](https://img.shields.io/badge/arXiv-2021-red)
+* TransReID: Transformer-based Object Re-Identification [[Paper]](https://arxiv.org/abs/2102.04378) ![](https://img.shields.io/badge/arXiv-2021-red)
 
 ## 🔹 Long-Term Tracking (LTT) Models
 
-* TLD: Tracking-Learning-Detection [[Paper]](https://ieeexplore.ieee.org/document/6130519) ![](https://img.shields.io/badge/TPAMI-2012-blue)  
+* TLD: Tracking-Learning-Detection [[Paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/Kalal-PAMI.pdf) ![](https://img.shields.io/badge/TPAMI-2012-blue)  
 * DaSiamRPN: Distractor-Aware Siamese RPN for LTT [[Paper]](https://arxiv.org/abs/1808.06048) ![](https://img.shields.io/badge/arXiv-2018-red)  
 * SiamRPN++ (LT): Improved Siamese RPN with Global Search [[Paper]](https://arxiv.org/abs/1812.11703) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * LTTrack: Occlusion-Aware Long-Term MOT with Zombie Pool Re-activation [[Paper]](https://ieeexplore.ieee.org/document/10536914) ![](https://img.shields.io/badge/IEEE-2024-blue)  
-* MambaLCT: Memory-Augmented Long-Term Tracking with State-Space Models [[Paper]](https://arxiv.org/abs/2405.02232) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* MambaLCT: Memory-Augmented Long-Term Tracking with State-Space Models [[Paper]](https://arxiv.org/abs/2412.13615) ![](https://img.shields.io/badge/arXiv-2024-red)  
 
 
 ## 📌 Foundation Models, VLM, and Multimodal Tracking
