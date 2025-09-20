@@ -199,4 +199,8 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * LVBench: Large-Scale Vision-Language Benchmark [[Paper]](https://arxiv.org/abs/2406.08035) ![](https://img.shields.io/badge/arXiv-2024-red)   
 * TNL2K-VLM: Tracking by Natural Language Queries [[Paper]](https://arxiv.org/abs/2103.16746) ![](https://img.shields.io/badge/arXiv-2021-red)
 
-
+---
+## Affiliations
+[<img src="images/cmu-logo.png" width="100" height="150">](https://www.ival-mbzuai.com)
+[<img src="images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
+[<img src="images/bu-logo.png" width="200" height="100">](https://github.com/mbzuai-oryx)
