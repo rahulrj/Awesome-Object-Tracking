@@ -145,12 +145,12 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 | BLIP-2          | Bootstrapped language-image pretraining model. Serves as a general-purpose vision-language backbone adaptable to tracking. | [Paper](https://arxiv.org/abs/2301.12597) | [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
 | GroundingDINO   | Open-set object detection with language prompts. Provides strong grounding for vision-language tracking pipelines. | [Paper](https://arxiv.org/abs/2303.05499) | [Code](https://github.com/IDEA-Research/GroundingDINO) |
 | Flamingo        | Large-scale multimodal few-shot learner with frozen LMs. Capable of integrating temporal reasoning across modalities. | [Paper](https://arxiv.org/abs/2204.14198) | [Code](https://github.com/mlfoundations/open_flamingo) |
-| SAM2MOT         | Extends SAM2 for segmentation-based multi-object tracking. Targets open-world and promptable tracking challenges. | [Paper](https://arxiv.org/abs/2502.11987) | [Code](https://github.com/TripleJoy/SAM2MOT) |
-| DTLLM-VLT       | Dynamic tracking with LLM-vision fusion. Incorporates large language models for reasoning over visual tracking states. | [Paper](https://arxiv.org/abs/2409.05211) | [Code](https://github.com/Xuchen-Li/DTLLM-VLT) |
-| DUTrack         | Dynamic update mechanism with language-driven adaptation. Enhances model robustness in evolving visual environments. | [Paper](https://arxiv.org/abs/2503.01234) | [Code](https://github.com/GXNU-ZhongLab/DUTrack) |
-| UVLTrack        | Unified vision-language tracking across multiple modalities. Provides flexible open-vocab evaluation with diverse prompts. | [Paper](https://arxiv.org/abs/2405.07918) | [Code](https://github.com/OpenSpaceAI/UVLTrack) |
-| All-in-One      | Multimodal tracking framework combining vision and language encoders. Offers a versatile baseline for fusion strategies. | [Paper](https://arxiv.org/abs/2308.13854) | [Code](https://github.com/983632847/All-in-One) |
-| Grounded-SAM    | Combines GroundingDINO and SAM for open-vocabulary tracking. Strengthens grounding accuracy for segmentation-driven MOT. | [Paper](https://arxiv.org/abs/2408.05412) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) |
+| SAM2MOT         | Extends SAM2 for segmentation-based multi-object tracking. Targets open-world and promptable tracking challenges. | [Paper](https://arxiv.org/abs/2504.04519) | [Code](https://github.com/TripleJoy/SAM2MOT) |
+| DTLLM-VLT       | Dynamic tracking with LLM-vision fusion. Incorporates large language models for reasoning over visual tracking states. | [Paper](https://arxiv.org/abs/2405.12139) | [Code](https://github.com/Xuchen-Li/DTLLM-VLT) |
+| DUTrack         | Dynamic update mechanism with language-driven adaptation. Enhances model robustness in evolving visual environments. | [Paper]([https://arxiv.org/abs/2503.01234](https://arxiv.org/abs/2503.06621)) | [Code](https://github.com/GXNU-ZhongLab/DUTrack) |
+| UVLTrack        | Unified vision-language tracking across multiple modalities. Provides flexible open-vocab evaluation with diverse prompts. | [Paper](https://arxiv.org/abs/2401.11228) | [Code](https://github.com/OpenSpaceAI/UVLTrack) |
+| All-in-One      | Multimodal tracking framework combining vision and language encoders. Offers a versatile baseline for fusion strategies. | [Paper](https://arxiv.org/abs/2307.03373) | [Code](https://github.com/983632847/All-in-One) |
+| Grounded-SAM    | Combines GroundingDINO and SAM for open-vocabulary tracking. Strengthens grounding accuracy for segmentation-driven MOT. | [Paper](https://arxiv.org/abs/2401.14159) | [Code](https://github.com/IDEA-Research/Grounded-Segment-Anything) |
 
 
 
