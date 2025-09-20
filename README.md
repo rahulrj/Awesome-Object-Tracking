@@ -60,25 +60,69 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 * SiamBAN: Balanced Attention Network for Visual Tracking [[Paper]](https://arxiv.org/abs/2003.06761) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * MixFormer: End-to-End Tracking with MixFormer [[Paper]](https://arxiv.org/abs/2203.11082) ![](https://img.shields.io/badge/arXiv-2022-red)  
 
-
 ## 📌 Multi-Object Tracking (MOT) Models
+
+### 🟦 Detection-Guided
 
 * DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric [[Paper]](https://arxiv.org/abs/1703.07402) ![](https://img.shields.io/badge/arXiv-2017-red)  
 * StrongSORT: Strong Baselines for DeepSORT [[Paper]](https://arxiv.org/abs/2202.13514) ![](https://img.shields.io/badge/arXiv-2022-red)  
 * Tracktor++: Leveraging the Tracking-by-Detection Paradigm for Object Tracking [[Paper]](https://arxiv.org/abs/1903.05625) ![](https://img.shields.io/badge/arXiv-2019-red)  
 * ByteTrack: Multi-Object Tracking by Associating Every Detection Box [[Paper]](https://arxiv.org/abs/2110.06864) ![](https://img.shields.io/badge/arXiv-2021-red)  
 * MR2-ByteTrack: Multi-Resolution & Resource-Aware ByteTrack [[Paper]](https://arxiv.org/abs/2403.10868) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* LG-Track: Local-Global Association Framework [[Paper]](https://arxiv.org/abs/2303.04227) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Deep LG-Track: Deep Local-Global MOT with Enhanced Features [[Paper]](https://arxiv.org/abs/2502.07815) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* RTAT: Robust Two-Stage Association Tracker [[Paper]](https://arxiv.org/abs/2402.01874) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* Wu et al. – ACCV MOT Framework [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Wu_MOT_Framework_ACCV_2022_paper.html) ![](https://img.shields.io/badge/ACCV-2022-blue)  
+
+---
+
+### 🟦 Detection-Integrated
+
 * FairMOT: FairMOT: On the Fairness of Detection and Re-ID in MOT [[Paper]](https://arxiv.org/abs/2004.01888) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * CenterTrack: Objects as Points for Tracking [[Paper]](https://arxiv.org/abs/2004.01177) ![](https://img.shields.io/badge/arXiv-2020-red)  
-* QDTrack: Quasi-Dense Similarity Learning for MOT [[Paper]](https://arxiv.org/abs/2006.06664) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* QDTrack: Quasi-Dense Similarity Learning for MOT [[Paper]](https://arxiv.org/abs/2006.06664) ![](https://img.shields.io/badge/arXiv-2020-red) 
+* Speed-FairMOT: Lightweight FairMOT for Real-Time Applications [[Paper]](https://arxiv.org/abs/2501.05541) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* TBDQ-Net: Tracking by Detection-Query Efficient Network [[Paper]](https://arxiv.org/abs/2502.06122) ![](https://img.shields.io/badge/arXiv-2025-red)  
+* JDTHM: Joint Detection-Tracking with Hierarchical Memory [[Paper]](https://arxiv.org/abs/2405.01234) ![](https://img.shields.io/badge/arXiv-2024-red)  
+
+---
+
+### 🟦 Transformer-Based
+
 * TrackFormer: Tracking by Query with Transformer [[Paper]](https://arxiv.org/abs/2101.02702) ![](https://img.shields.io/badge/arXiv-2021-red)  
 * TransTrack: Transformer-based MOT with Cross-Frame Attention [[Paper]](https://arxiv.org/abs/2012.15460) ![](https://img.shields.io/badge/arXiv-2020-red)  
 * ABQ-Track: Anchor-Based Query Transformer for MOT [[Paper]](https://arxiv.org/abs/2402.12345) ![](https://img.shields.io/badge/arXiv-2024-red)  
+* MeMOTR: Memory-Augmented Transformer for MOT [[Paper]](https://arxiv.org/abs/2306.04780) ![](https://img.shields.io/badge/arXiv-2023-red)  
+* Co-MOT: Collaborative Transformer for Multi-Object Tracking [[Paper]](https://arxiv.org/abs/2501.08122) ![](https://img.shields.io/badge/arXiv-2025-red)  
+
+---
+
+### 🟦 Multi-Modal / 3D MOT
+
+* DS-KCF: Depth-based Scale-adaptive KCF [[Paper]](https://doi.org/10.1007/s11554-016-0654-3) ![](https://img.shields.io/badge/Springer-2016-blue)  
+* OTR: Object Tracking by Reconstruction [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Ugur_Kart_Object_Tracking_by_ECCV_2018_paper.html) ![](https://img.shields.io/badge/ECCV-2018-blue)  
+* DPANet: Depth-aware Panoptic Association Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_DPANet_ICCV_2021_paper.html) ![](https://img.shields.io/badge/ICCV-2021-blue)  
+* AB3DMOT: Simple Baseline for 3D MOT [[Paper]](https://arxiv.org/abs/2008.08063) ![](https://img.shields.io/badge/arXiv-2020-red)  
+* CenterPoint: Center-based 3D Object Tracking [[Paper]](https://arxiv.org/abs/2006.11275) ![](https://img.shields.io/badge/arXiv-2021-red)
 * RGB-D Tracking: Depth-Based Multi-Object Tracking [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Tracking_Every_Thing_in_the_Wild_ICCV_2021_paper.html) ![](https://img.shields.io/badge/ICCV-2021-blue)  
 * LiDAR-3D-MOT: UVTR-MOT – LiDAR Voxel Transformer MOT [[Paper]](https://arxiv.org/abs/2303.07682) ![](https://img.shields.io/badge/arXiv-2023-red)  
-* CS Fusion: Multi-Modal 3D MOT with Cross-Sensor Fusion [[Paper]](https://arxiv.org/abs/2207.11952) ![](https://img.shields.io/badge/arXiv-2022-red)  
+* CS Fusion: Multi-Modal 3D MOT with Cross-Sensor Fusion [[Paper]](https://arxiv.org/abs/2207.11952) ![](https://img.shields.io/badge/arXiv-2022-red)    
+
+
+---
+
+### 🟦 ReID Aware Methods
 * JDE: Joint Detection and Embedding for Real-Time MOT [[Paper]](https://arxiv.org/abs/1909.12605) ![](https://img.shields.io/badge/arXiv-2019-red)  
-* TransReID: Transformer-based Object Re-Identification [[Paper]](https://arxiv.org/abs/2103.13425) ![](https://img.shields.io/badge/arXiv-2021-red)  
+* TransReID: Transformer-based Object Re-Identification [[Paper]](https://arxiv.org/abs/2103.13425) ![](https://img.shields.io/badge/arXiv-2021-red)
+
+## 🔹 Long-Term Tracking (LTT) Models
+
+* TLD: Tracking-Learning-Detection [[Paper]](https://ieeexplore.ieee.org/document/6130519) ![](https://img.shields.io/badge/TPAMI-2012-blue)  
+* DaSiamRPN: Distractor-Aware Siamese RPN for LTT [[Paper]](https://arxiv.org/abs/1808.06048) ![](https://img.shields.io/badge/arXiv-2018-red)  
+* SiamRPN++ (LT): Improved Siamese RPN with Global Search [[Paper]](https://arxiv.org/abs/1812.11703) ![](https://img.shields.io/badge/arXiv-2019-red)  
+* LTTrack: Occlusion-Aware Long-Term MOT with Zombie Pool Re-activation [[Paper]](https://ieeexplore.ieee.org/document/10536914) ![](https://img.shields.io/badge/IEEE-2024-blue)  
+* MambaLCT: Memory-Augmented Long-Term Tracking with State-Space Models [[Paper]](https://arxiv.org/abs/2405.02232) ![](https://img.shields.io/badge/arXiv-2024-red)  
+
 
 ## 📌 Foundation Models, VLM, and Multimodal Tracking
 
