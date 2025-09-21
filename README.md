@@ -42,22 +42,22 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 ---
 
-## 📚 Object Tracking Surveys  
+# 📚 Object Tracking Surveys  
 
 | Title | Task | Publication Date | Link |
 |---------------------------------|------|----------------|---------------------------------|
-| Object tracking: A survey | SOT/MOT | 2006 | [ACM](https://dl.acm.org/doi/10.1145/1177352.1177355) |
-| A Survey of Multiple Object Tracking | MOT | 2016 | [IEEE](https://ieeexplore.ieee.org/abstract/document/7832121) |
-| Deep Learning for Generic Object Detection: A Survey | SOT/MOT | 2019 | [Springer](https://link.springer.com/article/10.1007/s11263-019-01247-4) |
+| Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models | SOT/MOT/VLM | 2025 | [Arxiv](TBD) |
+| Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art | MOT | 2025 | [Arxiv](https://arxiv.org/abs/2506.13457) |
+| Multiple object tracking: A literature review | MOT | 2023 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370220301958) |
+| Transformers in Single Object Tracking: An Experimental Survey | SOT | 2023 | [Arxiv](https://arxiv.org/abs/2302.11867) |
+| Visual object tracking: A survey | MOT | 2022 | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001011) |
+| A Survey of Long-Term Visual Tracking | LTT | 2022 | [IEEE](https://ieeexplore.ieee.org/document/10292117) |
+| Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics | MOT | 2022 | [Arxiv](https://arxiv.org/abs/2201.13066) |
 | Deep Learning in Visual Object Tracking: A Review | SOT | 2021 | [IEEE](https://ieeexplore.ieee.org/document/9666461) |
 | Deep Learning For Visual Tracking: A Comprehensive Survey | SOT | 2021 | [Arxiv](https://arxiv.org/abs/1912.00535) |
-| Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics | MOT | 2022 | [Arxiv](https://arxiv.org/abs/2201.13066) |
-| Transformers in Single Object Tracking: An Experimental Survey | SOT | 2023 | [Arxiv](https://arxiv.org/abs/2302.11867) |
-| A Survey of Long-Term Visual Tracking | LTT | 2022 | [IEEE](https://ieeexplore.ieee.org/document/10292117) |
-| Visual object tracking: A survey | MOT | 2022 | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001011) |
-| Multiple object tracking: A literature review | MOT | 2023 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370220301958) |
-| Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art | MOT | 2025 | [Arxiv](https://arxiv.org/abs/2506.13457) |
-
+| Deep Learning for Generic Object Detection: A Survey | SOT/MOT | 2019 | [Springer](https://link.springer.com/article/10.1007/s11263-019-01247-4) |
+| A Survey of Multiple Object Tracking | MOT | 2016 | [IEEE](https://ieeexplore.ieee.org/abstract/document/7832121) |
+| Object tracking: A survey | SOT/MOT | 2006 | [ACM](https://dl.acm.org/doi/10.1145/1177352.1177355) |
 
 
 ## 📌 Single Object Tracking (SOT) Models
