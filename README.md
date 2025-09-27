@@ -2,7 +2,7 @@
 # Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models
 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rahulrj/Awesome-Object-Tracking)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 <p align="center">
