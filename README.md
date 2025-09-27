@@ -3,7 +3,7 @@
 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rahulrj/Awesome-Object-Tracking)
-[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]() [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
