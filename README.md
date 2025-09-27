@@ -62,7 +62,7 @@ trackers, to recent long-term, multi-modal, and foundation/VLM-powered approache
 
 | Title | Task | Publication Date | Link |
 |---------------------------------|------|----------------|---------------------------------|
-| Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models | SOT/MOT/VLM | 2025 | [Arxiv](TBD) |
+| Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models | SOT/MOT/VLM | 2025 | [Preprints](https://www.preprints.org/manuscript/202509.2051/v1) |
 | Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art | MOT | 2025 | [Arxiv](https://arxiv.org/abs/2506.13457) |
 | Multiple object tracking: A literature review | MOT | 2023 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0004370220301958) |
 | Transformers in Single Object Tracking: An Experimental Survey | SOT | 2023 | [Arxiv](https://arxiv.org/abs/2302.11867) |
