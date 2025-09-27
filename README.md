@@ -15,7 +15,7 @@ This repository is a curated collection of the most influential **papers**, **co
 
 Our work is based on the following paper:  
 📄 **Object Tracking: A Comprehensive Survey From Classical Approaches to Large Vision-Language and Foundation Models**   
-Available on [ResearchGate](https://www.researchgate.net/publication/395893646_Object_Tracking_A_Comprehensive_Survey_From_Classical_Approaches_to_Large_Vision-Language_and_Foundation_Models), [Preprints](https://www.preprints.org/manuscript/202509.2051/v1)
+Available on [ResearchGate](https://www.researchgate.net/publication/395893646_Object_Tracking_A_Comprehensive_Survey_From_Classical_Approaches_to_Large_Vision-Language_and_Foundation_Models), [Preprints](https://www.preprints.org/manuscript/202509.2051/v1), [PDF](https://www.dropbox.com/scl/fi/geznxyuapr0h5fnmdewui/Object-tracking-survey.pdf?rlkey=qego7kk7r2gk7c92nnqmvlgy3&st=6m86damb&dl=0)
 
 
 #### Authors
