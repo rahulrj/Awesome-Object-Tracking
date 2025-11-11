@@ -20,7 +20,7 @@ Available on [TechRxiv](https://www.techrxiv.org/users/970895/articles/1341609-o
 
 #### Authors
 [Rahul Raja](https://www.linkedin.com/in/rahulraja963/) - Linkedin, Carnegie Mellon University  
-[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/) - Linkedin, Boston University, Santa Clara University
+[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/) - Linkedin, Boston University, Santa Clara University 
 [Omkar Thawakar](https://omkarthawakar.github.io/index.html) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE   
 [Tajamul Ashraf](https://www.tajamulashraf.com) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE
 
