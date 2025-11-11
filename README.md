@@ -19,10 +19,10 @@ Available on [TechRxiv](https://www.techrxiv.org/users/970895/articles/1341609-o
 
 
 #### Authors
-[Rahul Raja](https://www.linkedin.com/in/rahulraja963/) - Linkedin, Carnegie Mellon University([50 citations](https://scholar.google.com/citations?hl=en&user=fLloCIEAAAAJ))  
-[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/) - Linkedin, Boston University, Santa Clara University([190 citations](https://scholar.google.com/citations?user=6s2eRbIAAAAJ&hl=en))  
-[Omkar Thawakar](https://omkarthawakar.github.io/index.html) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE([640 citations](https://scholar.google.com/citations?user=flvl5YQAAAAJ&hl=en))    
-[Tajamul Ashraf](https://www.tajamulashraf.com) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE([100 citations](https://scholar.google.com/citations?user=n6fSkQ4AAAAJ&hl=en))  
+[Rahul Raja](https://www.linkedin.com/in/rahulraja963/) - Linkedin, Carnegie Mellon University  
+[Arpita Vats](https://www.linkedin.com/in/arpita-v-0a14a422/) - Linkedin, Boston University, Santa Clara University
+[Omkar Thawakar](https://omkarthawakar.github.io/index.html) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE   
+[Tajamul Ashraf](https://www.tajamulashraf.com) - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE
 
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
